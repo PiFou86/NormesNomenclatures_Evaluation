@@ -1,5 +1,12 @@
 # Normes de programmation et notation
 
+
+**Certaines règles pourraient être sorties du documnent et généralisées à toutes les nomenclatures** 
+
+
+**Document en cours de rédaction**
+
+
 ## Normes C#
 
 ### C#000 - Langue
