@@ -169,7 +169,10 @@ Exemple
 
 ### C#004 - Nom des paramètres
 
-p_valeurMinimale
+Les noms des paramètres doivent être précédés de ```p_```.
+
+Exemple
+```p_valeurMinimale```
 
 **Pénalité de non respect de cette régle :**
 
@@ -206,13 +209,15 @@ Le nom d'une variable locale doit débuter par une minuscule, les mots composant
 
 ### C#007 - Nom des données membres d'objets
 
-m_asdfasdfLsdfasdfKasdfasdf
+Les noms des données membres d'objet doivent être précédés de ```m_```.
 
 **Pénalité de non respect de cette régle :**
 
 - Jusqu'à concurrence de -20% de la note de la question suivant ce qu'il manque
 
 ### C#007 - Nom des données membres de classes
+
+Le nom des données membres de classes doivent débuter par une minuscule, les mots composant le nom sont collés et débutent par une majuscule.
 
 AsdfasdfLsdfasdfKasdfasdf (static)
 
@@ -222,7 +227,11 @@ AsdfasdfLsdfasdfKasdfasdf (static)
 
 ### C#008 - Nom des propriétés
 
-NomPropriete
+Le nom des propriétés doit débuter par une majuscule, les mots composant le nom sont collés et débutent par une majuscule.
+
+Exemple :
+
+```NomPropriete```
 
 **Pénalité de non respect de cette régle :**
 
